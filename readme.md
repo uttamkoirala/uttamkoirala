@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech.
 - 🌱 I’m currently learning to program.
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 Mail at urk@urk.com.np
+- 📫 E-mail Address: urk@urk.com.np
 
 <!---
 uttamkoirala/uttamkoirala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
